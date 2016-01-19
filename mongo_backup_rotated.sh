@@ -96,3 +96,4 @@ function perform_backups()
 find $BACKUP_PATH  -mtime +$DAYS_TO_KEEP -name "*" -exec rm -rf '{}' ';'
  
 perform_backups
+
