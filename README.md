@@ -4,4 +4,4 @@ Steps
 
 2 - create backup folder at line 20
 
-3 - $bash mongo_backup_rotated.sh.
+3 - $bash mongo_backup_rotated.sh..
